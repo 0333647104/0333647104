@@ -1,8 +1,7 @@
 - 👋 chào ánh 
 - 👀 nhình cậu đệp thế
-- 🌱 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ yêu tôi nhiều hơn nha
+- ❤️ yêu anha nhiều
 
 <!---
 0333647104/0333647104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
